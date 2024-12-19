@@ -1,0 +1,5 @@
+theme: minima
+title: My Personal Blog
+description: A collection of thoughts and creations
+baseurl: "/blog"
+url: "https://cotttho.github.io"
